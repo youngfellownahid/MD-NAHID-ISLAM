@@ -1,0 +1,147 @@
+.content{
+	background: linear-gradient(#a619f8,#00f2fe) ;
+}
+
+#imge1
+{
+    height: 90vh;
+    background-image:url("ai-generated-8893956_1280.jpg");
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#text1
+{
+    text-align: center;
+    justify-content: center;
+    color: antiquewhite;
+    padding-top: 35vh;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: gabriola;
+}
+#text2{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+}
+.teachers-contaier
+{
+	display: flex;
+	flex-flow: wrap row;
+	justify-content: center;
+
+}
+
+.teachers1
+{
+	width: 400px;
+	height:400px;
+	background-color: #f0cc47;
+	border: 2px solid #ea9021;
+	border-radius: 10px;
+	margin: 20px 40px;
+
+}
+.teachers1 img
+{
+	border: 5px solid #ea9821;
+	border-radius: 100%;
+	display: block;
+	margin: 40px auto;
+}
+
+.teachers1 table
+{
+	text-align: left;
+	display: flex;
+	flex-flow: wrap row;
+	justify-content: center;
+}
+
+
+
+
+
+.teachers1:hover
+{
+	box-shadow: 5px 5px 10px #ea9021;
+}
+
+.teachers1 table tr td
+{
+	padding-left: 10px;
+}
+.textAbout
+{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.textAbout2{
+	padding-left: 140px;
+}
+
+.style1 {
+	padding-top: 50px;
+	font-family: 'gabriola', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 25px;
+}
+
+#corn{
+	color: #000000;
+}
+
+/* con us */
+#bdColor{
+	background: linear-gradient(#19f8c8,#00d8fe,#abf03b) ;
+}
+#name{
+	width: 700px;
+	height: 60px;
+	padding: 5px;
+
+}
+#email{
+	width: 700px;
+	height: 60px;
+	padding: 5px;
+}
+#pra{
+	width: 700px;
+	height: 60px;
+	padding: 5px;
+}
+
+/* certificate.html */
+#bg-color
+{
+	background: linear-gradient(#19ccf8,#fed800,#3bf0b9) ;
+}
+#textc
+{
+	font-family: gabriola;
+	font-size: 50px;
+	padding: 20px;
+}
+.about1
+{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: rgb(0, 252, 189);
+}
+.carti{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.carti2{
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+.footer
+{
+	text-align: center;
+	background-color: #009779;
+	color: white;
+	padding:5px 0px;
+}
